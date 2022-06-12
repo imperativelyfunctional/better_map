@@ -1,0 +1,19 @@
+{ "columns":16,
+ "image":"TX Tileset Wall.png",
+ "imageheight":512,
+ "imagewidth":512,
+ "margin":0,
+ "name":"TX Tileset Wall top",
+ "spacing":0,
+ "tilecount":256,
+ "tiledversion":"1.8.5",
+ "tileheight":32,
+ "tiles":[
+        {
+         "id":18,
+         "type":"above"
+        }],
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}
