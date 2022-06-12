@@ -1,16 +1,12 @@
-# better_map
+# bomberman
 
-A new Flutter project.
+# 本期是flutter教學系列的第二十七期
 
-## Getting Started
+# 教學內容包括：
+- tiledmap技巧
+# 教學預期：學員能夠更好的利用tiledmap來製作遊戲地圖
+視頻地址：https://youtu.be/2AjPGkqffzE <br>
+頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-This project is a starting point for a Flutter application.
+![遊戲截屏](https://github.com/imperativelyfunctional/parallax-particles/blob/main/demo.gif)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
